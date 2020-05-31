@@ -1,0 +1,15 @@
+{
+  "name": "slack-bendy-works",
+  "version": "1.0.0",
+  "description": "Shorten URLs via Slack /command with AWS Lambda and Bitly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abraham Williams",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.7.13",
+    "node-fetch": "^1.6.3"
+  }
+}
